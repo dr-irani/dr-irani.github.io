@@ -82,13 +82,11 @@ analytics:
 author:
   name             : "Darius Irani"
   avatar           : "profile.png"
-  bio              : "Johns Hopkins University Class of 2020
-
-  B.S. Computer Science and Applied Mathematics & Statistics"
+  bio              : "Student at Johns Hopkins University"
   location         : "Baltimore, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "dirani2@jhu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/dirani2/"
+  linkedin         : "dirani2"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
