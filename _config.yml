@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Darius Irani"
 title_separator          : "-"
 name                     : &name "Darius Irani"
-description              : &description "Personal Website"
+description              : &description "Personal"
 url                      : https://dr-irani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dr-irani.github.io"
@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Darius Irani"
   avatar           : "profile.png"
-  bio              : "B.S. Computer Science and Applied Mathematics & Statistics
-  Johns Hopkins University Class of 2020"
+  bio              : "Johns Hopkins University Class of 2020
+
+  B.S. Computer Science and Applied Mathematics & Statistics"
   location         : "Baltimore, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -101,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dirani2/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
