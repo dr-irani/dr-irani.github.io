@@ -15,4 +15,4 @@ redirect_from:
 * **Seattle Mobility Index** ([Report](/files/DSSG_report.pdf) and [GitHub](https://github.com/monolyst/Seattle-Mobility-Index))
   * Completed as part of [Data Science for Social Good Fellowship](https://escience.washington.edu/get-involved/incubator-programs/data-science-for-social-good/) (eScience Institute @ UW, Summer 2018)
 * **2018 Midterm Election Voter Turnout and Outcomes** ([GitHub](https://github.com/dr-irani/2018-election-influences))
-  * Semester project for Computer Vision (CS415 Fall 2018)
+  * Semester project for Databases (CS415 Fall 2018)
