@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior at Johns Hopkins studying Computer Science and Applied Mathematics & Statistics. I enjoy problem-solving and promoting equity in the work I do. My research interests include big data, machine learning, and statistics. 
+I'm a Master's student in Computer Science at Johns Hopkins University. My interests are broad, but I am specifically drawn to applications of machine learning and data science that have positive social and humanitarian impact. 
 
-Last summer, I was a student fellow at the University of Washington's Data Science for Social Good program. Working with the Seattle Department of Transportation, I processed data from a several sources and built a scalable and reproducible toolkit to measure accessibility, affordability, and reliability of transportation in Seattle.
+At Johns Hopkins, my coursework and research has been focused in applications of natural language processing and understanding. I am currently working on a project using conceptors to debias word and sentence embeddings. I am also a working with the [JHU-COVID-QA](https://jhu-covid-qa.github.io/) team on developing a conversational agent capable of answering open-ended questions about COVID-19.
+
+In my free time, I enjoy reading, cooking, petting cats, playing board games, and exploring the outdoors.
